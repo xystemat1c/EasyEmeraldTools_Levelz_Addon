@@ -2,5 +2,7 @@
     "replace": false,
     "skill": "defence",
     "level": 1,
-    "item": "basicshields:wooden_shield"
+    "item": "minecraft:custom_item",
+    "object": "basicshields:wooden_shield"
 }
+
