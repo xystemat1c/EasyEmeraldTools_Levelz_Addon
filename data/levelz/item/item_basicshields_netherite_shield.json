@@ -1,0 +1,8 @@
+{
+    "replace": true,
+    "skill": "defence",
+    "level": 20,
+    "item": "minecraft:custom_item",
+    "object": "basicshields:netherite_shield"
+}
+

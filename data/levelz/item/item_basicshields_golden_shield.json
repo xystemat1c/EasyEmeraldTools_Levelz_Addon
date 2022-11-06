@@ -1,0 +1,8 @@
+{
+    "replace": true,
+    "skill": "defence",
+    "level": 2,
+    "item": "minecraft:custom_item",
+    "object": "basicshields:golden_shield"
+}
+

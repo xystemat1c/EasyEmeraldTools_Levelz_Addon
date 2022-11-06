@@ -1,0 +1,8 @@
+{
+    "replace": true,
+    "skill": "defence",
+    "level": 16,
+    "item": "minecraft:custom_item",
+    "object": "basicshields:ruby_shield"
+}
+

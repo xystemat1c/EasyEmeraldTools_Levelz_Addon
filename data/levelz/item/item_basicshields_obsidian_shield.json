@@ -1,0 +1,8 @@
+{
+    "replace": true,
+    "skill": "defence",
+    "level": 11,
+    "item": "minecraft:custom_item",
+    "object": "basicshields:obsidian_shield"
+}
+
